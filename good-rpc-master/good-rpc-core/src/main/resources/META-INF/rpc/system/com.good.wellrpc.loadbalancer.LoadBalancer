@@ -1,0 +1,3 @@
+roundRobin=loadbalancer.com.good.wellrpc.RoundRobinLoadBalancer
+random=loadbalancer.com.good.wellrpc.RandomLoadBalancer
+consistentHash=loadbalancer.com.good.wellrpc.ConsistentHashLoadBalancer

@@ -1,0 +1,2 @@
+no=retry.fault.com.good.wellrpc.NoRetryStrategy
+fixedInterval=retry.fault.com.good.wellrpc.FixedIntervalRetryStrategy

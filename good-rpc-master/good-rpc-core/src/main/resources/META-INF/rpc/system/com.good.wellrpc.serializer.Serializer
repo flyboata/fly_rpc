@@ -1,0 +1,4 @@
+jdk=serializer.com.good.wellrpc.JdkSerializer
+hessian=serializer.com.good.wellrpc.HessianSerializer
+json=serializer.com.good.wellrpc.JsonSerializer
+kryo=serializer.com.good.wellrpc.KryoSerializer

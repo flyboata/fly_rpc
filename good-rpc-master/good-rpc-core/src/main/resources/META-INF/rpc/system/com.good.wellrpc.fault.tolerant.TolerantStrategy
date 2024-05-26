@@ -1,0 +1,4 @@
+failBack=tolerant.fault.com.good.wellrpc.FailBackTolerantStrategy
+failFast=tolerant.fault.com.good.wellrpc.FailFastTolerantStrategy
+failOver=tolerant.fault.com.good.wellrpc.FailOverTolerantStrategy
+failSafe=tolerant.fault.com.good.wellrpc.FailSafeTolerantStrategy

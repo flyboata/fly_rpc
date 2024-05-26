@@ -1,0 +1,2 @@
+etcd=registry.com.good.wellrpc.EtcdRegistry
+zookeeper=registry.com.good.wellrpc.ZooKeeperRegistry
