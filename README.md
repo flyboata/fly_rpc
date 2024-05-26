@@ -36,7 +36,7 @@
 ## 源码目录
 
 - good-rpc-core：RPC 框架核心代码
-- good-rpc-easy：RPC 框架简易版（适合新手入门）
+- good-rpc-easy：RPC 框架简易版
 - example-common：示例代码公用模块
 - example-consumer：示例服务消费者
 - example-provider：示例服务提供者
