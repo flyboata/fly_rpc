@@ -3,7 +3,9 @@ package com.good.example.consumer;
 import com.good.example.common.model.User;
 import com.good.example.common.service.UserService;
 import com.good.wellrpc.bootstrap.ConsumerBootstrap;
+import com.good.wellrpc.config.RpcConfig;
 import com.good.wellrpc.proxy.ServiceProxyFactory;
+import com.good.wellrpc.utils.ConfigUtils;
 
 /**
  * 服务消费者示例
@@ -12,6 +14,7 @@ import com.good.wellrpc.proxy.ServiceProxyFactory;
 public class ConsumerExample {
 
     public static void main(String[] args) {
+
         // 服务提供者初始化
         ConsumerBootstrap.init();
 
